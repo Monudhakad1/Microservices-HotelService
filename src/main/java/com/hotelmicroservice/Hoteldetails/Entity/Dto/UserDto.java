@@ -1,4 +1,4 @@
-package com.hotelmicroservice.Hoteldetails.Entity.DTO;
+package com.hotelmicroservice.Hoteldetails.Entity.Dto;
 
 public class UserDto {
 }
