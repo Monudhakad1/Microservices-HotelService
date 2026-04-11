@@ -14,5 +14,7 @@ public interface HotelService {
     HotelDto findHotelById(String id);
 
     HotelDto updateHotel(HotelDto hotelDto);
+
+
 }
 
